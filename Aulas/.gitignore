@@ -2,5 +2,5 @@ node_modules
 extras
 exercicios
 pagina-com-js
-.package.json
-.package-lock.json
+package.json
+package-lock.json
