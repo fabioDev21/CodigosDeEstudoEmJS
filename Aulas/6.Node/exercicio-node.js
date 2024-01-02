@@ -15,7 +15,7 @@ axios.get(url).then(response => {
             }
         }
     })
-    console.log(paisF.sort((a,b) => a-b)[0])
+    console.log(paisF.sort((a,b) => a-b)[0]) 
 })
 
 
