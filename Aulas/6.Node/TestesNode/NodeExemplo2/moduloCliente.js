@@ -1,4 +1,5 @@
-const exportModulo1 = require("./modulo1")
-console.log(exportModulo1.a)
-console.log(exportModulo1.b)
-console.log(exportModulo1.c)
+const coisas1 = require("./modulo1")
+console.log(coisas1.wish, "Que", coisas1.you, coisas1.were, coisas1.here )
+
+const _ = require("lodash")
+setInterval(() => console.log(_.random(1,20)), 1000)

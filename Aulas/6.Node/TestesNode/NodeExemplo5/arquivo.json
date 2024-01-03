@@ -1,0 +1,9 @@
+{
+    "nome": "Zé Turbinado",
+    "idade": 63,
+    "profissao": "Mecânico",
+    "endereco": {
+        "rua": "Rua Gago Coutinho",
+        "numero": 123
+    }
+}
