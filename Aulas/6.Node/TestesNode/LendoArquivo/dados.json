@@ -1,0 +1,8 @@
+{
+    "nome": "Adelino",
+    "idade": 85,
+    "endereco": {
+        "rua": "Abcde",
+        "numero": 123
+    }
+}
